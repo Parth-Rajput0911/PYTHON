@@ -1,4 +1,4 @@
-
+#Check Weather No is Positive,Negative and Zero.
 num = float(input("Enter a number: "))
 
 if num > 0:

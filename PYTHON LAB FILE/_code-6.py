@@ -1,3 +1,4 @@
+# Store and process student information using a dictionary
 
 students = {}
 

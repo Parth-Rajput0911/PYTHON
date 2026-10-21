@@ -1,4 +1,4 @@
-# Student information using variables
+# Student information using variables.
 name = "Parth"
 age = 19
 is_student = True
